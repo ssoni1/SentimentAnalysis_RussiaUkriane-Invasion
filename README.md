@@ -1,6 +1,6 @@
 # SentimentAnalysis_RussiaUkriane-Invasion
 
-Abstract The purpose of this paper is to get a sentimental understanding on the recent invasion of Ukraine by Russia. Through this paper we aim to analyze the emotions of the world news and the tweets that were posted on twitter on keywords related to the invasion. Such as ‘Russian invasion of Ukraine ', ‘Ukraine war’, ‘Russia war’, ‘Ukraine vs Russia', ‘Russia-Ukraine war’, ‘RussiaUkraine conflict’. We investigated the subject of sentiment analysis of the Ukraine and Russia conflict. In this research, created a corpus of Ukrainian and Russian news, and labeled each text with one of three categories: positive, negative, or neutral. The hypothesis of the overall project is that we expect the overall sentiment to be negative.
+The purpose of this project is to get a sentimental understanding of the recent invasion of Ukraine by Russia. Through this project, we aim to analyze the emotions of the world news and the tweets that were posted on Twitter on keywords related to the invasion. Such as ‘Russian invasion of Ukraine ', ‘Ukraine war’, ‘Russia war’, ‘Ukraine vs Russia', ‘Russia-Ukraine war’, ‘Russia-Ukraine conflict’. We investigated the subject of sentiment analysis of the Ukraine and Russia conflict. In this research, created a corpus of Ukrainian and Russian news, and labeled each text with one of three categories: positive, negative, or neutral. The hypothesis of the overall project is that we expect the overall sentiment to be negative.
 
 The project contains two notebooks:
 
